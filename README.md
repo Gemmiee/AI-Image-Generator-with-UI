@@ -8,6 +8,8 @@ The program can automatically generate **creative prompt ideas** and convert the
 ---
 
 ## 📸 Preview Images
+![Sample 1](exampleImages_forReadMe/example1.png)
+![Sample 2](exampleImages_forReadMe/example2.png)
 
 
 ## ✨ Features
